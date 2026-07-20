@@ -8,6 +8,6 @@ groq_model = ChatGroq(
     temperature = 0.7
 )
 
-response = groq_model.invoke('Explain the machine learing in very simple words.')
+response = groq_model.invoke('How many hundreds Sachin scored in Test and ODI separately?')
 
 print(response.content)
