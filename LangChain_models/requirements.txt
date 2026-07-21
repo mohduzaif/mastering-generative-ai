@@ -21,6 +21,9 @@ langchain-huggingface
 transformers
 huggingface-hub
 
+# Cohere installation for embedding models.
+langchain-cohere
+
 # Environment Variable Management
 python-dotenv
 
