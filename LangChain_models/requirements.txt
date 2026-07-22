@@ -24,6 +24,9 @@ huggingface-hub
 # Cohere installation for embedding models.
 langchain-cohere
 
+# VoyageAI installation for embedding models.
+langchain-voyageai
+
 # Environment Variable Management
 python-dotenv
 
