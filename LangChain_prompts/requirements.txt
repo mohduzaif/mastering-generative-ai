@@ -1,0 +1,35 @@
+# LangChain Core
+langchain
+langchain-core
+
+# OpenAI Integration
+# langchain-openai
+# openai
+
+# Anthropic Integration
+# langchain-anthropic
+
+# Google Gemini (PaLM) Integration
+langchain-google-genai
+google-generativeai
+
+# Groq model integration
+# langchain_groq
+
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+# Cohere installation for embedding models.
+# langchain-cohere
+
+# VoyageAI installation for embedding models.
+# langchain-voyageai
+
+# Environment Variable Management
+python-dotenv
+
+# Machine Learning Utilities
+numpy
+scikit-learn
