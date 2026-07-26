@@ -1,3 +1,4 @@
 LangChain_models/myenv/
 LangChain_models/.env
 LangChain_prompts/.env
+LangChain_structured_output/.env
