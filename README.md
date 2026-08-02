@@ -272,4 +272,10 @@ It motivates me to continue building and sharing more Generative AI content.
 
 ---
 
+## 👨‍💻 Author  
+**Mohd Uzaif**  
+🎓 *M.Tech (AI & ML), Jamia Millia Islamia University*   
+
+---
+
 > **Learning never stops. Every project in this repository is one step closer to mastering Generative AI. 🚀**
