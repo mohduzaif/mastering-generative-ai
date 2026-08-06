@@ -7,3 +7,4 @@ LangChain_chains/.env
 Langchain_Runnables/.ipynb_checkpoints
 Langchain_Runnables/.env
 .vscode/settings.json
+Langchain_Loaders/.env
