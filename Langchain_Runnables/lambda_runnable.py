@@ -55,4 +55,3 @@ final_result = """{} \nWord count - {}""".format(result['joke'], result['word_co
 
 # print the result
 print(final_result)
-
