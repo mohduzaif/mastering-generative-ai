@@ -1,8 +1,8 @@
 from langchain_text_splitters import RecursiveCharacterTextSplitter, Language
 
 text = """
-    from operator import itemgetter
 
+from operator import itemgetter
 from langchain.chat_models import ChatOpenAI
 from langchain.embeddings import OpenAIEmbeddings
 from langchain.prompts import ChatPromptTemplate
