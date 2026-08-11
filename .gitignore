@@ -11,3 +11,4 @@ Langchain_Loaders/.env
 Langchain_Loaders/all_pdfs
 Langchain_text_splitter/.env
 Langchain_retrievers/.ipynb_checkpoints/wikipedia-retriever(data source)-checkpoint.ipynb
+Langchain_retrievers/.ipynb_checkpoints/
